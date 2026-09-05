@@ -1,0 +1,6 @@
+{
+  "name": "SmritiCare",
+  "description": "AI-Powered Cognitive Care & Memory Assistance platform for elderly dementia care and geriatric well-being across all over India.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
